@@ -2,7 +2,7 @@ package alampro;
 
 public class Mainclass {
 	public static void main(String[] args) {
-		System.out.println("prp1");
-		System.out.println("prp1");
+		System.out.println(15);
+
 	}
 }
